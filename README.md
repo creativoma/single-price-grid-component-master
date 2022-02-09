@@ -43,4 +43,4 @@ Users should be able to:
 
 - Website - [creativoma](https://creativoma.com/)
 - Frontend Mentor - [@creativoma](https://www.frontendmentor.io/profile/creativoma)
-- Twitter - [@dev_creativoma](https://twitter.com/MarianoNobell)
+- Twitter - [@dev_creativoma](https://twitter.com/dev_creativoma)
