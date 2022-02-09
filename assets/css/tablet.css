@@ -1,0 +1,50 @@
+/* media="(min-width: 728px) */
+
+main {
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+main > section {
+  padding: 30px;
+}
+
+main > section#container-one {
+  width: 100%;
+}
+
+main > section#container-one {
+  background: var(--white);
+  border-radius: 5px 5px 0px 0px;
+}
+
+main > section#container-two {
+  width: 50%;
+}
+
+main > section#container-two {
+  border-radius: 0px 0px 0px 5px;
+  box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.15);
+}
+
+main > section#container-two > button:hover {
+  transform: scale(1.05);
+}
+
+main > section#container-two > button:active {
+  transform: scale(1);
+}
+
+main > section#container-three {
+  width: 50%;
+}
+
+main > section#container-three {
+  border-radius: 0px 0px 5px 0px;
+  box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.15);
+}
+
+footer {
+  margin: 0 auto;
+}
